@@ -11,6 +11,7 @@ python manage.py runserver
 ## アクセス方法
 http://127.0.0.1:8000/word2vec?word=単語
 
+※IPアドレス、ポート番号は環境によって適宜変更してください
 # 学習データ
 pixiv 学習済みデータ
 
